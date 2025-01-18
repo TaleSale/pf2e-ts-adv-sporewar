@@ -1,0 +1,32 @@
+{
+  "id": "pf2e-ts-adv-sporewar",
+  "title": "PF2E-TS-ADV (Война Спор)",
+  "description": "Дополнение для АП Война Спор",
+  "version": "1.0.1",
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.8.0"
+        }
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "authors": [
+    {
+      "name": "TaleSale",
+      "url": "https://discord.gg/jYvjzn5",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/TaleSale/pf2e-ts-adv-stolenfate",
+  "manifest": "https://raw.githubusercontent.com/TaleSale/pf2e-ts-adv-stolenfate/main/module.json",
+  "download": "https://github.com/TaleSale/pf2e-ts-adv-stolenfate/archive/refs/heads/main.zip"
+}
