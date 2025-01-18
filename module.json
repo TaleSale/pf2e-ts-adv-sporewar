@@ -26,7 +26,7 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/TaleSale/pf2e-ts-adv-stolenfate",
-  "manifest": "https://raw.githubusercontent.com/TaleSale/pf2e-ts-adv-stolenfate/main/module.json",
-  "download": "https://github.com/TaleSale/pf2e-ts-adv-stolenfate/archive/refs/heads/main.zip"
+  "url": "https://github.com/TaleSale/pf2e-ts-adv-sporewar",
+  "manifest": "https://raw.githubusercontent.com/TaleSale/pf2e-ts-adv-sporewar/main/module.json",
+  "download": "https://github.com/TaleSale/pf2e-ts-adv-sporewar/archive/refs/heads/main.zip"
 }
